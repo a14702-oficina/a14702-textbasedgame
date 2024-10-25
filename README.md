@@ -16,9 +16,13 @@ if escolha == "Esquerda":
   else:
     escolha == "Fugir"
     print("Conseguis-te fugir com sucesso para a porta da Direita!")
-if escolha == "Direita":
+else:
+escolha == "Direita":
   print("Á tua frente tens mais 3 portas a Porta Vermelha a Azul e a Preta, qual vais escolher? (Vermelha/Azul/Preta): ")
-  if escolha == "Vermelha":
+  escolha == "Vermelha":
     print("á tua frente tens uma espada, pega nela, mas se vires bem não consegues passar, tenta outra porta")
-  if escolha == "Azul":
-    print("Tens um escudo á tua frente, mas continuas sem conseguir passar, tenta a ultima ")
+  escolha == "Preta":
+    print("Tens um escudo á tua frente, mas continuas sem conseguir passar, tenta a ultima porta (Azul) ")
+  escolha == "Azul":
+    print("Tens um monstro á tua frente, como conseguiste o escudo e a espada tenta atacar o tigre: ")
+  
