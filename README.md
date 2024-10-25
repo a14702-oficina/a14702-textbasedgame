@@ -1,7 +1,7 @@
 <h1> TestBasedGame <h1>
 
 
-escolha = input("Deseja jogar este jogo? (Sim/Não): ")
+<h2> escolha = input("Deseja jogar este jogo? (Sim/Não): ")
 if escolha == "Sim":
     print ("Bem vindo à floresta!")
 else:
@@ -24,5 +24,5 @@ escolha == "Direita":
   escolha == "Preta":
     print("Tens um escudo á tua frente, mas continuas sem conseguir passar, tenta a ultima porta (Azul) ")
   escolha == "Azul":
-    print("Tens um monstro á tua frente, como conseguiste o escudo e a espada tenta atacar o tigre: ")
+    print("Tens um monstro á tua frente, como conseguiste o escudo e a espada tenta atacar o tigre: ") <h2>
   
