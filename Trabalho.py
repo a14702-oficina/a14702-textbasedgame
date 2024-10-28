@@ -6,15 +6,15 @@ else:
   print("OK, o jogo não foi iniciado")
   exit ()
 
-escolha = input("Estás preso, Tenta sair daí o mais rapido possivel. Escolhe 'esquerda' ou 'direita': ").lower()
+escolha = input("Estás preso, Tenta sair daí o mais rapido possivel. Escolhe esquerda(E) ou direita(D): ").lower()
 
-if escolha == "esquerda":
-    escolha = input("Encontraste um lago. Queres 'atravessar' ou 'ir á volta' do lago?: ").lower()
+if escolha == "e":
+    escolha = input("Encontraste um lago. Queres atravessar(A) ou ir á volta(I) do lago?: ").lower()
 
-    if escolha == "ir á volta":
-        escolha = input("Encontraste uma caverna. Queres 'entrar' na caverna ou 'seguir em frente'?: ").lower()
+    if escolha == "i":
+        escolha = input("Encontraste uma caverna. Queres entrar(E) na caverna ou seguir em frente(S)?: ").lower()
 
-        if escolha == "entrar":
+        if escolha == "e":
             print("Encontraste a saída secreta! Parabéns, escapaste da floresta!")
         else:
             print("Perdeste-te na floresta. GAME OVER!")
