@@ -1,6 +1,6 @@
 <h1> TestBasedGame <h1>
 
-Visão Geral do Jogo:
+<p>Visão Geral do Jogo:
 Este é um jogo de aventura em formato de texto, no qual o jogador precisa fazer escolhas para tentar escapar de uma floresta cheia de armadilhas e perigos. Conforme avança, o jogador encontra obstáculos, como lagos e cavernas, e precisa pensar bem nas decisões que vai tomar para conseguir seguir em frente. Cada escolha leva a diferentes resultados, algumas escolhas podem levar à vitória, enquanto outras resultam em "Game Over".
 
 
@@ -34,7 +34,7 @@ Interatividade com o Utilizador:
 A entrada do jogador é feita usando a função input(), que captura as escolhas e as guarda em variáveis. Depois, o jogo verifica essas entradas com condições, como if e else, para decidir como a história vai continuar. Isso garante que o jogo seja interativo e responda às decisões do jogador.
 
 Conclusão:
-O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também me ensinou a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.
+O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também me ensinou a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.<p>
 
 
 
