@@ -34,7 +34,7 @@ Interatividade com o Utilizador:
 A entrada do jogador é feita usando a função input(), que captura as escolhas e as guarda em variáveis. Depois, o jogo verifica essas entradas com condições, como if e else, para decidir como a história vai continuar. Isso garante que o jogo seja interativo e responda às decisões do jogador.
 
 Conclusão:
-O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também me ensinou a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.</p>
+O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também me ensinou a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.
 
 
 
