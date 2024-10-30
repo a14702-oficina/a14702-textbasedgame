@@ -54,7 +54,7 @@ A entrada do jogador é feita usando a função input(), que captura as escolhas
 
 Conclusão:
 
-O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também me ensinou a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.
+O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também ensinou-me a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.
 
 
 
