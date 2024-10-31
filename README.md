@@ -12,7 +12,7 @@
 O principal objetivo do jogo é explorar a floresta e encontrar a saída secreta sem cair em armadilhas. O jogador precisa pensar estrategicamente e escolher as melhores opções em cada etapa para escapar com sucesso.
 
 
-## ****Público-Alvo:**
+## **Público-Alvo:**
 
 
 O jogo é indicado para pessoas que gostam de histórias interativas e de tomar decisões estratégicas, especialmente para adolescentes e jovens que procuram uma experiência rápida e envolvente. Como é um jogo simples, com comandos fáceis, é ideal para quem está a começar a explorar jogos de aventura.
