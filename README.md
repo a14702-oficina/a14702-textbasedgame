@@ -6,19 +6,19 @@
 <p>Este é um jogo de aventura em formato de texto, no qual o jogador precisa fazer escolhas para tentar escapar de uma floresta cheia de armadilhas e perigos. Conforme avança, o jogador encontra obstáculos, como lagos e cavernas, e precisa pensar bem nas decisões que vai tomar para conseguir seguir em frente. Cada escolha leva a diferentes resultados, algumas escolhas podem levar à vitória, enquanto outras resultam em "Game Over".</p>
 
 
-Objetivo Principal: 
+<h2>**Objetivo Principal:**</h2>
 
 
 O principal objetivo do jogo é explorar a floresta e encontrar a saída secreta sem cair em armadilhas. O jogador precisa pensar estrategicamente e escolher as melhores opções em cada etapa para escapar com sucesso.
 
 
-Público-Alvo:
+<h2>**Público-Alvo:**</h2>
 
 
 O jogo é indicado para pessoas que gostam de histórias interativas e de tomar decisões estratégicas, especialmente para adolescentes e jovens que procuram uma experiência rápida e envolvente. Como é um jogo simples, com comandos fáceis, é ideal para quem está a começar a explorar jogos de aventura.
 
 
-De onde surgiu a ideia para o jogo:
+<h2>**De onde surgiu a ideia para o jogo:**</h2>
 
 
 A ideia do jogo veio do professor que queria ensinar programação de uma forma divertida. Sugeriu fazer uma aventura na floresta,  foi aí que tive a ideia de escolher o tema de  como escapar de uma floresta cheia de armadilhas.
