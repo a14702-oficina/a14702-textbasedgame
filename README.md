@@ -52,7 +52,7 @@ No jogo, variáveis simples foram utilizadas para armazenar informações básic
 
 A entrada do jogador é feita usando a função input(), que captura as escolhas e as guarda em variáveis. Depois, o jogo verifica essas entradas com condições, como if e else, para decidir como a história vai continuar. Isso garante que o jogo seja interativo e responda às decisões do jogador.
 
-<h2>**Conclusão:**
+## **Conclusão:**
 
 O desenvolvimento deste projeto foi uma jornada valiosa que não só melhorou as minhas habilidades de programação, mas também ensinou-me a importância da narrativa e da experiência do utilizador em jogos. Estou entusiasmado para aplicar o que aprendi  em projetos futuros e melhorar continuamente a minha abordagem ao desenvolvimento de jogos.
 
