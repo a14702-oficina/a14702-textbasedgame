@@ -1,6 +1,6 @@
 <h1>TestBasedGame</h1>
 
-<h2>**Visão Geral do Jogo:**</h2>
+## **Visão Geral do Jogo:**
 
 
 <p>Este é um jogo de aventura em formato de texto, no qual o jogador precisa fazer escolhas para tentar escapar de uma floresta cheia de armadilhas e perigos. Conforme avança, o jogador encontra obstáculos, como lagos e cavernas, e precisa pensar bem nas decisões que vai tomar para conseguir seguir em frente. Cada escolha leva a diferentes resultados, algumas escolhas podem levar à vitória, enquanto outras resultam em "Game Over".</p>
