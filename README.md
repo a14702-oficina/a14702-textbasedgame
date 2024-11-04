@@ -31,12 +31,12 @@ Primeiro, há as escolhas interativas, onde o jogador enfrenta situações em qu
 ## **Condições usadas(if & else):**
 
 
-    ## **Instruções if:**
+    #Instruções if:
   
 As instruções if são usadas para avaliar as escolhas do jogador. Por exemplo, quando o jogador é perguntado se deseja ir para a esquerda ou para a direita, o código utiliza uma instrução if para verificar a entrada.
 Se a resposta do jogador for "e" (para esquerda), o jogo prossegue em um determinado caminho; caso contrário, o fluxo muda para a outra opção.
 
-    ## **Instruções else:**
+    Instruções else:
   
 As instruções else são utilizadas como um "caminho padrão" para capturar qualquer entrada que não corresponda às condições anteriores. Por exemplo, se o jogador não escolher uma opção válida, o código pode retornar uma mensagem de erro ou seguir um caminho que leva a um "Game Over".
 
